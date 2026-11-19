@@ -38,7 +38,7 @@ UF1 : adresse inconnue, lien expiré
 UF2 : champ obligatoire manquant, échec de l'envoi
 UF6 : clôture refusée sans responsable, fiche modifiée par un collègue pendant la saisie
 Tests utilisateurs
-5 testeurs, en visio de 30 minutes, en test modéré : le testeur pense à voix haute.
+3 testeurs, en visio de 30 minutes, en test modéré : le testeur pense à voix haute.
 Chaque testeur suit les parcours qui correspondent à son profil, Bernard ou Claire.
 Les observations sont notées dans une grille de relevé, avec les réussites, les points de blocage et leur gravité.
 Contenu du dépôt
